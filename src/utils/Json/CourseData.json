@@ -1,0 +1,663 @@
+[
+  {
+    "_id": "LT001",
+    "title": "Leadership Training",
+    "description": "Develop essential leadership skills that empower you to guide teams with clarity, confidence, and purpose. This course dives into modern leadership practices designed for real-world organizational challenges.",
+    "status": "Running",
+    "price": 129,
+    "image_url": "/1.png",
+    "details": {
+      "duration_hours": 6,
+      "due_date": "March 20th",
+      "progress_percent": 25,
+      "totalModules": 4,
+      "completedModules": 1
+    },
+    "ratings": 4,
+    "course_tag": "Leadership",
+    "course_lvl": "Intermediate",
+    "enrolled_count": 120,
+    "about_this_course": "This immersive program provides a strong foundation for anyone looking to strengthen their leadership capabilities. It explores how great leaders think, act, and inspire, blending practical frameworks with real-world scenarios to help you build meaningful influence.",
+    "what_you_learn": [
+      "Decision-making frameworks backed by behavioral science",
+      "Team motivation strategies used by top-performing organizations",
+      "Advanced communication techniques for leaders",
+      "Strategic planning principles for long-term team success"
+    ],
+    "course_curriculam": [
+      {
+        "title": "Introduction to Leadership",
+        "lessons": 4,
+        "completedLessons": 1,
+        "time": "45 min"
+      },
+      {
+        "title": "Leadership Frameworks",
+        "lessons": 3,
+        "completedLessons": 0,
+        "time": "35 min"
+      },
+      {
+        "title": "Managing People",
+        "lessons": 5,
+        "completedLessons": 1,
+        "time": "50 min"
+      },
+      {
+        "title": "Emotional Intelligence for Leaders",
+        "lessons": 4,
+        "completedLessons": 0,
+        "time": "40 min"
+      }
+    ],
+    "course_instructor": {
+      "name": "John Maxwell",
+      "image": "https://placehold.co/80x80/805ad5/ffffff?text=JM",
+      "expertise": "Leadership & Team Development",
+      "description": "John Maxwell is a seasoned leadership mentor known for coaching managers and executives across global organizations."
+    }
+  },
+  {
+    "_id": "CR002",
+    "title": "Conflict Resolution",
+    "description": "Master modern conflict management techniques through practical tools, proven frameworks, and communication models designed to help teams navigate disagreements professionally and constructively.",
+    "status": "Running",
+    "price": 99,
+    "image_url": "/2.png",
+    "details": {
+      "duration_hours": 6,
+      "due_date": "March 20th",
+      "progress_percent": 25,
+      "totalModules": 4,
+      "completedModules": 2
+    },
+    "ratings": 4,
+    "course_tag": "Communication",
+    "course_lvl": "Beginner",
+    "enrolled_count": 98,
+    "about_this_course": "This course equips you with the skills to identify the root causes of conflict and apply structured communication methods to resolve issues effectively. Learn how to mediate, negotiate, and restore trust within any team environment.",
+    "what_you_learn": [
+      "Root-cause conflict analysis and scenario mapping",
+      "Negotiation fundamentals for workplace discussions",
+      "Communication patterns that reduce tension",
+      "Workplace mediation frameworks used by HR specialists"
+    ],
+    "course_curriculam": [
+      {
+        "title": "Understanding Conflict",
+        "lessons": 3,
+        "completedLessons": 1,
+        "time": "30 min"
+      },
+      {
+        "title": "Communication Techniques",
+        "lessons": 4,
+        "completedLessons": 1,
+        "time": "40 min"
+      },
+      {
+        "title": "Negotiation Skills",
+        "lessons": 3,
+        "completedLessons": 0,
+        "time": "35 min"
+      },
+      {
+        "title": "Practical Mediation",
+        "lessons": 4,
+        "completedLessons": 0,
+        "time": "50 min"
+      }
+    ],
+    "course_instructor": {
+      "name": "Sarah Lopez",
+      "image": "https://placehold.co/80x80/319795/ffffff?text=SL",
+      "expertise": "Conflict Management & Mediation",
+      "description": "Sarah Lopez is an expert mediator with over a decade of experience helping teams resolve internal conflicts through structured communication."
+    }
+  },
+  {
+    "_id": "CSE003",
+    "title": "Customer Service Excellence",
+    "description": "Learn advanced customer service strategies designed to elevate customer satisfaction, build long-term loyalty, and enhance communication performance within any support-driven environment.",
+    "status": "Completed",
+    "price": 89,
+    "image_url": "/3.png",
+    "details": {
+      "completion_date": "Feb 28, 2024",
+      "totalModules": 4,
+      "completedModules": 4
+    },
+    "ratings": 4,
+    "course_tag": "Customer Service",
+    "course_lvl": "Intermediate",
+    "enrolled_count": 150,
+    "about_this_course": "This course is built for individuals aiming to master the psychology of customer interactions. It covers proven service principles, communication models, and best practices for delivering high-impact support experiences.",
+    "what_you_learn": [
+      "Handling difficult customers with empathy",
+      "Building rapport through communication cues",
+      "Ticket resolution workflows used by top support teams",
+      "Professional communication techniques for fast-paced environments"
+    ],
+    "course_curriculam": [
+      {
+        "title": "Customer Psychology",
+        "lessons": 3,
+        "completedLessons": 3,
+        "time": "40 min"
+      },
+      {
+        "title": "Service Excellence Principles",
+        "lessons": 4,
+        "completedLessons": 4,
+        "time": "45 min"
+      },
+      {
+        "title": "Communication Models",
+        "lessons": 3,
+        "completedLessons": 3,
+        "time": "35 min"
+      },
+      {
+        "title": "Case Study Practices",
+        "lessons": 3,
+        "completedLessons": 3,
+        "time": "50 min"
+      }
+    ],
+    "course_instructor": {
+      "name": "Michael Adams",
+      "image": "https://placehold.co/80x80/ecc94b/000000?text=MA",
+      "expertise": "Customer Success & Service Strategy",
+      "description": "Michael Adams has led customer experience teams in global tech companies, specializing in high-impact communication frameworks."
+    }
+  },
+  {
+    "_id": "TM004",
+    "title": "Time Management Fundamentals",
+    "description": "Learn essential time management techniques that help you stay organized, maintain focus, and achieve measurable productivity improvements in your daily workflow.",
+    "status": "Completed",
+    "price": 79,
+    "image_url": "/4.png",
+    "details": {
+      "completion_date": "Feb 28, 2024",
+      "totalModules": 4,
+      "completedModules": 4
+    },
+    "ratings": 4,
+    "course_tag": "Productivity",
+    "course_lvl": "Beginner",
+    "enrolled_count": 200,
+    "about_this_course": "This course breaks down the core principles of task prioritization, workflow planning, and long-term goal setting. It offers practical techniques to help individuals optimize their schedules and prevent burnout.",
+    "what_you_learn": [
+      "Task prioritization based on urgency and impact",
+      "Time-boxing and scheduling frameworks",
+      "Goal-setting methodologies like SMART planning",
+      "Strategies to maintain productivity while avoiding burnout"
+    ],
+    "course_curriculam": [
+      {
+        "title": "Introduction to Time Management",
+        "lessons": 2,
+        "completedLessons": 2,
+        "time": "25 min"
+      },
+      {
+        "title": "Planning Methods",
+        "lessons": 3,
+        "completedLessons": 3,
+        "time": "35 min"
+      },
+      {
+        "title": "Tools & Techniques",
+        "lessons": 3,
+        "completedLessons": 3,
+        "time": "40 min"
+      },
+      {
+        "title": "Sustaining Productivity",
+        "lessons": 2,
+        "completedLessons": 2,
+        "time": "30 min"
+      }
+    ],
+    "course_instructor": {
+      "name": "Emma Thompson",
+      "image": "https://placehold.co/80x80/dd6b20/ffffff?text=ET",
+      "expertise": "Productivity & Workflow Optimization",
+      "description": "Emma Thompson teaches practical productivity systems that help individuals and teams manage workloads effectively."
+    }
+  },
+  {
+    "_id": "CSE005",
+    "title": "Customer Service Excellence",
+    "description": "Strengthen your communication capabilities through targeted customer interaction techniques designed to build trust, clarity, and satisfaction across every touchpoint.",
+    "status": "Completed",
+    "price": 85,
+    "image_url": "/5.png",
+    "details": {
+      "completion_date": "Feb 28, 2024",
+      "totalModules": 4,
+      "completedModules": 4
+    },
+    "ratings": 4,
+    "course_tag": "Customer Support",
+    "course_lvl": "Beginner",
+    "enrolled_count": 175,
+    "about_this_course": "This introductory course helps learners develop polished communication, analytical thinking, and service-oriented problem solving. It focuses on building the skills necessary for providing professional, empathetic, and effective support.",
+    "what_you_learn": [
+      "Refined communication skills for customer interactions",
+      "Active listening techniques that improve clarity",
+      "Customer-centric problem solving models",
+      "Structuring professional responses for difficult scenarios"
+    ],
+    "course_curriculam": [
+      {
+        "title": "Customer Interaction Basics",
+        "Lessons": 3,
+        "completedLessons": 3,
+        "time": "30 min"
+      },
+      {
+        "title": "Communication Skills",
+        "lessons": 3,
+        "completedLessons": 3,
+        "time": "40 min"
+      },
+      {
+        "title": "Problem-Solving in Service",
+        "lessons": 2,
+        "completedLessons": 2,
+        "time": "35 min"
+      },
+      {
+        "title": "Final Assessment",
+        "lessons": 1,
+        "completedLessons": 1,
+        "time": "20 min"
+      }
+    ],
+    "course_instructor": {
+      "name": "Laura Greene",
+      "image": "https://placehold.co/80x80/38a169/ffffff?text=LG",
+      "expertise": "Customer Communication & Support Training",
+      "description": "Laura Greene has coached hundreds of support professionals, helping them build clarity, empathy, and service excellence."
+    }
+  },
+  {
+    "_id": "PM006",
+    "title": "Project Management Essentials",
+    "description": "Gain a practical roadmap for planning, executing, and delivering projects with precision. This course covers modern project management tools used in fast-paced organizations.",
+    "status": "Running",
+    "price": 119,
+    "image_url": "/6.png",
+    "details": {
+      "duration_hours": 8,
+      "due_date": "April 12th",
+      "progress_percent": 40,
+      "totalModules": 5,
+      "completedModules": 2
+    },
+    "ratings": 5,
+    "course_tag": "Project Management",
+    "course_lvl": "Intermediate",
+    "enrolled_count": 160,
+    "about_this_course": "This course equips learners with foundational project management frameworks, enabling them to manage scope, risk, and team execution in real business scenarios.",
+    "what_you_learn": [
+      "Agile and Waterfall methodologies",
+      "Risk and stakeholder management",
+      "Workflow optimization for projects",
+      "Tools used by top PM teams"
+    ],
+    "course_curriculam": [
+      { "title": "PM Introduction", "lessons": 3, "completedLessons": 1, "time": "30 min" },
+      { "title": "Scope & Planning", "lessons": 4, "completedLessons": 1, "time": "45 min" },
+      { "title": "Risk Management", "lessons": 3, "completedLessons": 0, "time": "40 min" },
+      { "title": "Execution Models", "lessons": 4, "completedLessons": 0, "time": "50 min" },
+      { "title": "Project Tools", "lessons": 3, "completedLessons": 0, "time": "35 min" }
+    ],
+    "course_instructor": {
+      "name": "Daniel Carter",
+      "image": "https://placehold.co/80x80/4C51BF/ffffff?text=DC",
+      "expertise": "Project Leadership",
+      "description": "Daniel has led enterprise-level projects for global organizations across finance and technology."
+    }
+  },
+  {
+    "_id": "CS007",
+    "title": "Communication Skills Mastery",
+    "description": "Strengthen your professional communication style with techniques designed to elevate clarity, confidence, and emotional resonance.",
+    "status": "Running",
+    "price": 79,
+    "image_url": "/7.png",
+    "details": {
+      "duration_hours": 4,
+      "due_date": "April 20th",
+      "progress_percent": 50,
+      "totalModules": 4,
+      "completedModules": 2
+    },
+    "ratings": 4,
+    "course_tag": "Communication",
+    "course_lvl": "Beginner",
+    "enrolled_count": 145,
+    "about_this_course": "A comprehensive program designed to enhance verbal and written communication across workplace environments.",
+    "what_you_learn": [
+      "Clarity-driven communication",
+      "Professional writing structures",
+      "Speaking with influence",
+      "Feedback delivery models"
+    ],
+    "course_curriculam": [
+      { "title": "Communication Basics", "lessons": 3, "completedLessons": 2, "time": "30 min" },
+      { "title": "Professional Writing", "lessons": 3, "completedLessons": 0, "time": "35 min" },
+      { "title": "Public Speaking", "lessons": 4, "completedLessons": 0, "time": "40 min" },
+      { "title": "Feedback Skills", "lessons": 2, "completedLessons": 0, "time": "25 min" }
+    ],
+    "course_instructor": {
+      "name": "Mia Reynolds",
+      "image": "https://placehold.co/80x80/2B6CB0/ffffff?text=MR",
+      "expertise": "Corporate Communication",
+      "description": "Mia teaches communication strategy for leadership teams and startup founders."
+    }
+  },
+  {
+    "_id": "EM008",
+    "title": "Emotional Intelligence at Work",
+    "description": "Unlock emotional intelligence techniques that enable stronger relationships, better teamwork, and effective decision-making.",
+    "status": "Running",
+    "price": 109,
+    "image_url": "/8.png",
+    "details": {
+      "duration_hours": 6,
+      "due_date": "April 15th",
+      "progress_percent": 30,
+      "totalModules": 4,
+      "completedModules": 1
+    },
+    "ratings": 5,
+    "course_tag": "Behavioral Skills",
+    "course_lvl": "Advanced",
+    "enrolled_count": 210,
+    "about_this_course": "A science-backed exploration of emotional intelligence and how it influences leadership, collaboration, and workplace culture.",
+    "what_you_learn": [
+      "Self-awareness & emotional mapping",
+      "Workplace empathy techniques",
+      "Conflict de-escalation skills",
+      "Emotion-driven decision-making"
+    ],
+    "course_curriculam": [
+      { "title": "EQ Foundations", "lessons": 3, "completedLessons": 1, "time": "40 min" },
+      { "title": "Understanding Emotions", "lessons": 3, "completedLessons": 0, "time": "35 min" },
+      { "title": "Workplace Empathy", "lessons": 3, "completedLessons": 0, "time": "45 min" },
+      { "title": "Applied EQ", "lessons": 4, "completedLessons": 0, "time": "50 min" }
+    ],
+    "course_instructor": {
+      "name": "Alicia Harmon",
+      "image": "https://placehold.co/80x80/E53E3E/ffffff?text=AH",
+      "expertise": "Behavioral Psychology",
+      "description": "Alicia specializes in emotional intelligence training for corporate teams."
+    }
+  },
+  {
+    "_id": "SM009",
+    "title": "Stress Management Strategies",
+    "description": "Build resilience with practical methods that help you overcome workplace stress while maintaining balance and clarity.",
+    "status": "Running",
+    "price": 69,
+    "image_url": "/9.png",
+    "details": {
+      "duration_hours": 3,
+      "due_date": "April 10th",
+      "progress_percent": 20,
+      "totalModules": 3,
+      "completedModules": 0
+    },
+    "ratings": 4,
+    "course_tag": "Wellness",
+    "course_lvl": "Beginner",
+    "enrolled_count": 130,
+    "about_this_course": "A foundational guide to managing stress through cognitive, behavioral, and environmental strategies designed for modern workplaces.",
+    "what_you_learn": [
+      "Identifying stress triggers",
+      "Mindfulness and clarity techniques",
+      "Balancing workload effectively",
+      "Building long-term resilience"
+    ],
+    "course_curriculam": [
+      { "title": "Stress Basics", "lessons": 2, "completedLessons": 0, "time": "25 min" },
+      { "title": "Mindfulness Tools", "lessons": 2, "completedLessons": 0, "time": "30 min" },
+      { "title": "Work-Life Balance", "lessons": 3, "completedLessons": 0, "time": "35 min" }
+    ],
+    "course_instructor": {
+      "name": "Nathan White",
+      "image": "https://placehold.co/80x80/38B2AC/ffffff?text=NW",
+      "expertise": "Mental Wellness",
+      "description": "Nathan is a workplace wellness consultant with experience in employee resilience training."
+    }
+  },
+  {
+    "_id": "TS010",
+    "title": "Teamwork & Collaboration",
+    "description": "Master collaborative communication and team-based problem solving in fast-paced, multi-stakeholder environments.",
+    "status": "Completed",
+    "price": 95,
+    "image_url": "/2.png",
+    "details": {
+      "completion_date": "Feb 28, 2024",
+      "totalModules": 4,
+      "completedModules": 4
+    },
+    "ratings": 4,
+    "course_tag": "Teamwork",
+    "course_lvl": "Intermediate",
+    "enrolled_count": 190,
+    "about_this_course": "This course focuses on the psychology of collaboration, helping learners build trust, resolve differences, and create team synergy.",
+    "what_you_learn": [
+      "Collaborative communication models",
+      "Trust-building in teams",
+      "Shared problem-solving frameworks",
+      "Group decision-making patterns"
+    ],
+    "course_curriculam": [
+      { "title": "Team Dynamics", "lessons": 3, "completedLessons": 3, "time": "40 min" },
+      { "title": "Collaboration Skills", "lessons": 4, "completedLessons": 4, "time": "45 min" },
+      { "title": "Team Problem-Solving", "lessons": 3, "completedLessons": 3, "time": "35 min" },
+      { "title": "Team Case Studies", "lessons": 2, "completedLessons": 2, "time": "30 min" }
+    ],
+    "course_instructor": {
+      "name": "Christopher Hall",
+      "image": "https://placehold.co/80x80/805AD5/ffffff?text=CH",
+      "expertise": "Team Development",
+      "description": "Christopher specializes in helping cross-functional teams build trust and alignment."
+    }
+  },
+  {
+    "_id": "PS011",
+    "title": "Problem-Solving Masterclass",
+    "description": "Enhance your analytical thinking and master problem-solving methodologies widely used across global organizations.",
+    "status": "Completed",
+    "price": 89,
+    "image_url": "/1.png",
+    "details": {
+      "completion_date": "Feb 28, 2024",
+      "totalModules": 4,
+      "completedModules": 4
+    },
+    "ratings": 5,
+    "course_tag": "Critical Thinking",
+    "course_lvl": "Advanced",
+    "enrolled_count": 180,
+    "about_this_course": "This course dives into rigorous problem-solving strategies, from logic-based thinking to structured frameworks used in consulting.",
+    "what_you_learn": [
+      "Root-cause analysis",
+      "Logical thinking patterns",
+      "Business problem frameworks",
+      "Creative ideation approaches"
+    ],
+    "course_curriculam": [
+      { "title": "Thinking Models", "lessons": 3, "completedLessons": 3, "time": "40 min" },
+      { "title": "Root Cause Methods", "lessons": 3, "completedLessons": 3, "time": "35 min" },
+      { "title": "Framework Application", "lessons": 3, "completedLessons": 3, "time": "45 min" },
+      { "title": "Case Simulations", "lessons": 2, "completedLessons": 2, "time": "30 min" }
+    ],
+    "course_instructor": {
+      "name": "Olivia Brooks",
+      "image": "https://placehold.co/80x80/2D3748/ffffff?text=OB",
+      "expertise": "Business Strategy",
+      "description": "Olivia trains professionals in structured problem-solving techniques used in consulting firms."
+    }
+  },
+  {
+    "_id": "LC012",
+    "title": "Leading Change",
+    "description": "Develop high-impact change management capabilities to guide organizations through transformation with confidence and clarity.",
+    "status": "Running",
+    "price": 129,
+    "image_url": "/3.png",
+    "details": {
+      "duration_hours": 6,
+      "due_date": "April 30th",
+      "progress_percent": 10,
+      "totalModules": 4,
+      "completedModules": 0
+    },
+    "ratings": 4,
+    "course_tag": "Leadership",
+    "course_lvl": "Advanced",
+    "enrolled_count": 155,
+    "about_this_course": "This course provides step-by-step frameworks for leading organizational change, designed for professionals managing transitions, restructures, or culture shifts.",
+    "what_you_learn": [
+      "Change readiness analysis",
+      "Organizational transformation models",
+      "Communicating change effectively",
+      "Managing resistance in teams"
+    ],
+    "course_curriculam": [
+      { "title": "Change Foundations", "lessons": 3, "completedLessons": 0, "time": "40 min" },
+      { "title": "Transformation Models", "lessons": 3, "completedLessons": 0, "time": "35 min" },
+      { "title": "Communicating Change", "lessons": 3, "completedLessons": 0, "time": "45 min" },
+      { "title": "Sustaining Change", "lessons": 3, "completedLessons": 0, "time": "50 min" }
+    ],
+    "course_instructor": {
+      "name": "Henry Collins",
+      "image": "https://placehold.co/80x80/C53030/ffffff?text=HC",
+      "expertise": "Organizational Change",
+      "description": "Henry specializes in corporate transformation and change leadership."
+    }
+  },
+  {
+    "_id": "DP013",
+    "title": "Data Presentation & Storytelling",
+    "description": "Turn raw data into compelling visuals and narratives that drive decision-making and organizational alignment.",
+    "status": "Running",
+    "price": 139,
+    "image_url": "/4.png",
+    "details": {
+      "duration_hours": 8,
+      "due_date": "April 18th",
+      "progress_percent": 35,
+      "totalModules": 5,
+      "completedModules": 2
+    },
+    "ratings": 5,
+    "course_tag": "Data Literacy",
+    "course_lvl": "Advanced",
+    "enrolled_count": 132,
+    "about_this_course": "Learn how to design data narratives that influence stakeholders and simplify complex information into clear, actionable insights.",
+    "what_you_learn": [
+      "Visual storytelling principles",
+      "Dashboard design frameworks",
+      "Data simplification techniques",
+      "Narratives for executive audiences"
+    ],
+    "course_curriculam": [
+      { "title": "Data Story Basics", "lessons": 3, "completedLessons": 2, "time": "40 min" },
+      { "title": "Visual Design", "lessons": 4, "completedLessons": 0, "time": "45 min" },
+      { "title": "Dashboards & Tools", "lessons": 3, "completedLessons": 0, "time": "50 min" },
+      { "title": "Business Narratives", "lessons": 3, "completedLessons": 0, "time": "40 min" },
+      { "title": "Final Project", "lessons": 1, "completedLessons": 0, "time": "20 min" }
+    ],
+    "course_instructor": {
+      "name": "Sophia Nguyen",
+      "image": "https://placehold.co/80x80/1A365D/ffffff?text=SN",
+      "expertise": "Data Storytelling",
+      "description": "Sophia helps teams translate complex data into clear, compelling insights."
+    }
+  },
+  {
+    "_id": "PSY014",
+    "title": "Workplace Psychology Fundamentals",
+    "description": "Understand human behavior at work to improve teamwork, motivation, performance, and culture.",
+    "status": "Running",
+    "price": 99,
+    "image_url": "/5.png",
+    "details": {
+      "duration_hours": 6,
+      "due_date": "April 22nd",
+      "progress_percent": 15,
+      "totalModules": 4,
+      "completedModules": 0
+    },
+    "ratings": 4,
+    "course_tag": "Behavioral Science",
+    "course_lvl": "Intermediate",
+    "enrolled_count": 165,
+    "about_this_course": "A foundation in workplace psychology principles that influence productivity, morale, decision-making, and group behavior.",
+    "what_you_learn": [
+      "Motivational psychology",
+      "Behavioral patterns at work",
+      "Team behavior analytics",
+      "Practical psychology tools for managers"
+    ],
+    "course_curriculam": [
+      { "title": "Psychology Basics", "lessons": 3, "completedLessons": 0, "time": "30 min" },
+      { "title": "Motivation Models", "lessons": 3, "completedLessons": 0, "time": "40 min" },
+      { "title": "Team Psychology", "lessons": 3, "completedLessons": 0, "time": "45 min" },
+      { "title": "Applied Workplace Psychology", "lessons": 2, "completedLessons": 0, "time": "35 min" }
+    ],
+    "course_instructor": {
+      "name": "Dr. Kevin Harris",
+      "image": "https://placehold.co/80x80/553C9A/ffffff?text=KH",
+      "expertise": "Organizational Psychology",
+      "description": "Dr. Harris specializes in applying psychology to improve workplace efficiency and well-being."
+    }
+  },
+  {
+    "_id": "CS015",
+    "title": "Corporate Strategy Insights",
+    "description": "Explore core strategic frameworks used by top enterprises to craft long-term business direction and competitive advantage.",
+    "status": "Completed",
+    "price": 159,
+    "image_url": "/6.png",
+    "details": {
+      "completion_date": "Feb 28, 2024",
+      "totalModules": 4,
+      "completedModules": 4
+    },
+    "ratings": 5,
+    "course_tag": "Business Strategy",
+    "course_lvl": "Advanced",
+    "enrolled_count": 250,
+    "about_this_course": "This course blends case studies, strategic tools, and real-world scenarios to help professionals create meaningful business strategies.",
+    "what_you_learn": [
+      "Industry and competitor analysis",
+      "Corporate strategic frameworks",
+      "Long-term planning models",
+      "Data-driven decision strategies"
+    ],
+    "course_curriculam": [
+      { "title": "Strategy Fundamentals", "lessons": 3, "completedLessons": 3, "time": "40 min" },
+      { "title": "Market Positioning", "lessons": 3, "completedLessons": 3, "time": "45 min" },
+      { "title": "Competitive Models", "lessons": 4, "completedLessons": 4, "time": "50 min" },
+      { "title": "Strategy Case Studies", "lessons": 2, "completedLessons": 2, "time": "30 min" }
+    ],
+    "course_instructor": {
+      "name": "Evelyn Blake",
+      "image": "https://placehold.co/80x80/22543D/ffffff?text=EB",
+      "expertise": "Corporate Strategy",
+      "description": "Evelyn has consulted for leading multinational corporations across finance and retail."
+    }
+  }
+]
+
+

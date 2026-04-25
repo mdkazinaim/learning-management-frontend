@@ -1,0 +1,71 @@
+
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-primary-blue: #121B60;
+  --color-light-blue: #3853EA;
+  --color-primary-purple:#7B61FF;
+  --color-secondary-purple:#CFD6FA;
+  --color-primary-green:#28A745;
+  --color-secondary-green:#00C950;
+  --color-primary-red:#FF6B6B;
+  --color-primary-yellow:#FFB300;
+  --color-secondary-yellow:#FFE3A1;
+  --color-gray: #EAEFF5;
+  --color-light-gray: #9597A3;
+  --color-primary-white:#F4F9FC;
+  --color-primary-text:#34394F;
+  --color-secondary-text:#636778;
+  --color-border:#EBEEFD;
+}
+
+@layer base {
+
+  html {
+    font-family: 'Inter', sans-serif;
+  }
+  h1 {
+  font-size: clamp(1.5rem, 1.3239rem + 0.5634vw, 2rem);
+  font-weight: 600;
+  color: var(--color-primary-text);
+}
+  h2 
+    {
+      font-size: clamp(1.125rem, 0.993rem + 0.4225vw, 1.5rem);
+      font-weight: 500;
+      color: var(--color-primary-text);
+    }
+  
+  h3 {
+    font-size: clamp(1rem, 0.912rem + 0.2817vw, 1.25rem);
+    font-weight: 500;
+    color: var(--color-primary-text);
+  }
+  /* h4 {
+    @apply text-lg sm:text-xl md:text-2xl font-medium;
+  }
+  h5 {
+    @apply text-base sm:text-lg md:text-xl font-medium;
+  }
+  */
+  h6{
+     font-size: clamp(0.875rem, 0.831rem + 0.1408vw, 1rem);
+     font-weight: 500;
+     color: var(--color-secondary-text);
+  } 
+  p {
+   font-size: clamp(0.75rem, 0.706rem + 0.1408vw, 0.875rem);
+   font-weight:400;
+   color: var(--color-light-gray);
+  }
+  /* span{
+    font-size: clamp(0.875rem, 0.831rem + 0.1408vw, 1rem);
+    font-weight:400;
+    
+  } */
+  /* button{
+    font-size: clamp(0.75rem, 0.706rem + 0.1408vw, 0.875rem);
+  } */
+}
